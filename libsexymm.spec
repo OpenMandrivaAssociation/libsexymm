@@ -14,7 +14,7 @@ Group: System/Libraries
 Url: http://www.chipx86.com/wiki/Libsexy
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: libsexy-devel
-BuildRequires: libgtkmm2.4-devel
+BuildRequires: gtkmm2.4-devel
 
 %description
 This is a collection of widgets for gtkmm.
