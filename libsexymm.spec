@@ -1,6 +1,6 @@
 %define name libsexymm
 %define version 0.1.9
-%define release 5
+%define release 6
 %define major 2
 %define libname %mklibname sexymm %major
 
