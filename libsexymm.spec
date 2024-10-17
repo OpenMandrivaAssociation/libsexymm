@@ -11,7 +11,7 @@ Release: %{release}
 Source0: http://releases.chipx86.com/libsexy/%name/%{name}-%{version}.tar.bz2
 License: LGPL
 Group: System/Libraries
-Url: http://www.chipx86.com/wiki/Libsexy
+Url: https://www.chipx86.com/wiki/Libsexy
 BuildRequires: pkgconfig(libsexy)
 BuildRequires: pkgconfig(gdkmm-2.4)
 
